@@ -626,8 +626,39 @@
     {
       "id": "pricing",
       "variant": "",
-      "visible": false,
-      "items": []
+      "visible": true,
+      "items": [
+        {
+          "name": {
+            "he": "Basic",
+            "en": "Basic"
+          },
+          "price": {
+            "he": "190",
+            "en": "190"
+          },
+          "desc": {
+            "he": "רגיל 60 דק",
+            "en": "רגיל 60 דק"
+          },
+          "id": "pricing-1779389136187"
+        },
+        {
+          "name": {
+            "he": "Base 90",
+            "en": "Base 90"
+          },
+          "price": {
+            "he": "300",
+            "en": "300"
+          },
+          "desc": {
+            "he": "90 דקות",
+            "en": "90 דקות"
+          },
+          "id": "pricing-1779389168381"
+        }
+      ]
     },
     {
       "id": "faq",
