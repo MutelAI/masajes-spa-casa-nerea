@@ -30,64 +30,7 @@
     "cache_key": "wQKG3voM7rinukCT9",
     "logo_url": "/images/logo.webp"
   },
-  "hours": [
-    {
-      "day_key": "sunday",
-      "day_he": "Domingo",
-      "day_en": "Sunday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "monday",
-      "day_he": "Lunes",
-      "day_en": "Monday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "tuesday",
-      "day_he": "Martes",
-      "day_en": "Tuesday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "wednesday",
-      "day_he": "Miércoles",
-      "day_en": "Wednesday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "thursday",
-      "day_he": "Jueves",
-      "day_en": "Thursday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "friday",
-      "day_he": "Viernes",
-      "day_en": "Friday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    },
-    {
-      "day_key": "saturday",
-      "day_he": "Sábado",
-      "day_en": "Saturday",
-      "hours_he": "9:00 - 21:00",
-      "hours_en": "9 am–9 pm",
-      "is_open": true
-    }
-  ],
+  "hours": [],
   "design": {
     "color_primary": "amber",
     "color_secondary": "yellow",
@@ -219,18 +162,6 @@
           "desc": {
             "he": "Sesión simultánea en nuestras suites privadas, perfecta para reconectar y compartir una experiencia de bienestar profundo.",
             "en": "Sesión simultánea en nuestras suites privadas, perfecta para reconectar y compartir una experiencia de bienestar profundo."
-          }
-        },
-        {
-          "id": "6",
-          "icon": "Crown",
-          "title": {
-            "he": "Tratamiento Personalizado Premium",
-            "en": "Tratamiento Personalizado Premium"
-          },
-          "desc": {
-            "he": "Protocolo adaptado completamente a las necesidades específicas de cada cliente, combinando múltiples técnicas terapéuticas avanzadas.",
-            "en": "Protocolo adaptado completamente a las necesidades específicas de cada cliente, combinando múltiples técnicas terapéuticas avanzadas."
           }
         }
       ]
@@ -621,7 +552,7 @@
     {
       "id": "location",
       "variant": "",
-      "visible": true
+      "visible": false
     },
     {
       "id": "pricing",
@@ -725,5 +656,8 @@
       "question": "¿Qué los diferencia de otros centros de masajes?",
       "answer": "Somos el único centro especializado exclusivamente en bienestar masculino en Zona Rosa, con terapeutas certificadas que dominan técnicas específicas para las necesidades del hombre moderno."
     }
+  ],
+  "hidden_sections": [
+    "hours"
   ]
 }
