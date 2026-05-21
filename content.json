@@ -1,0 +1,690 @@
+{
+  "version": 2,
+  "business": {
+    "name": "Casa Nerea Spa",
+    "name_en": "Masajes & Spa Casa Nerea",
+    "site_lang": "es",
+    "available_langs": [
+      "es"
+    ],
+    "phone": "+525619261785",
+    "phone_display": "+525619261785",
+    "whatsapp": "525619261785",
+    "website": "https://casanereaspa.com/",
+    "rating": 4.5,
+    "reviews_count": 78,
+    "address_he": "Av Chapultepec 151, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "address_en": "Av Chapultepec 151, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+    "category_he": "Centro de masajes y spa",
+    "category_en": "Massage spa",
+    "maps_url": "https://maps.google.com/?q=19.4253893,-99.1568801",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHogwSTEAFmDuHbcFrf6H3zUq3VBS2UJjNln5Wg6H95_Etu-bxLgeSG6ANtMKuQsqM_7eLAy8GoL7-3BjHV4i0c8XUkodQjz6vXf1Mx9BhNKQBgunEIJ9cWz2OajiGPqMf1mo3leQ=w408-h544-k-no",
+    "logo_emoji": "HeartHandshake",
+    "geo": {
+      "latitude": 19.4253893,
+      "longitude": -99.1568801
+    },
+    "schema_type": "SpaOrBeautyShop",
+    "price_range": "$$",
+    "source_url": "https://maps.app.goo.gl/wQKG3voM7rinukCT9?g_st=aw",
+    "cache_key": "wQKG3voM7rinukCT9",
+    "logo_url": "/images/logo.webp"
+  },
+  "editToken": "71cad27ca53e01823adda8d028fb4fc0",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "Domingo",
+      "day_en": "Sunday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "Lunes",
+      "day_en": "Monday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "Martes",
+      "day_en": "Tuesday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "Miércoles",
+      "day_en": "Wednesday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "Jueves",
+      "day_en": "Thursday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "Viernes",
+      "day_en": "Friday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "Sábado",
+      "day_en": "Saturday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "M",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "El centro de masajes masculino más reconocido de la Zona Rosa - especialistas en bienestar y renovación energética",
+          "en": "El centro de masajes masculino más reconocido de la Zona Rosa - especialistas en bienestar y renovación energética"
+        },
+        "subtitle": {
+          "he": "Centro holístico de masajes diseñado exclusivamente para el hombre moderno que busca renovar su energía y alcanzar el equilibrio perfecto",
+          "en": "Centro holístico de masajes diseñado exclusivamente para el hombre moderno que busca renovar su energía y alcanzar el equilibrio perfecto"
+        },
+        "available": {
+          "he": "Disponible de lunes a domingo, 9:00 AM - 9:00 PM",
+          "en": "Disponible de lunes a domingo, 9:00 AM - 9:00 PM"
+        },
+        "cta_call": {
+          "he": "Llamar Ahora",
+          "en": "Llamar Ahora"
+        },
+        "cta_whatsapp": {
+          "he": "WhatsApp",
+          "en": "WhatsApp"
+        },
+        "cycle_1": {
+          "he": "Liberación de tensión muscular",
+          "en": "Liberación de tensión muscular"
+        },
+        "cycle_2": {
+          "he": "Revitalización energética",
+          "en": "Revitalización energética"
+        },
+        "cycle_3": {
+          "he": "Relajación profunda",
+          "en": "Relajación profunda"
+        },
+        "cycle_4": {
+          "he": "Renovación integral",
+          "en": "Renovación integral"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "L",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "Técnicas terapéuticas especializadas para la renovación integral del bienestar masculino",
+          "en": "Técnicas terapéuticas especializadas para la renovación integral del bienestar masculino"
+        },
+        "cta": {
+          "he": "Reservar Sesión",
+          "en": "Reservar Sesión"
+        },
+        "title": {
+          "he": "Nuestras Especialidades",
+          "en": "Nuestras Especialidades"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "HeartHandshake",
+          "title": {
+            "he": "Masaje Terapéutico Profundo",
+            "en": "Masaje Terapéutico Profundo"
+          },
+          "desc": {
+            "he": "Técnicas especializadas de liberación miofascial que eliminan tensiones musculares acumuladas y restauran la movilidad natural del cuerpo masculino.",
+            "en": "Técnicas especializadas de liberación miofascial que eliminan tensiones musculares acumuladas y restauran la movilidad natural del cuerpo masculino."
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Dumbbell",
+          "title": {
+            "he": "Masaje Deportivo Post-Entrenamiento",
+            "en": "Masaje Deportivo Post-Entrenamiento"
+          },
+          "desc": {
+            "he": "Tratamiento específico para aliviar el dolor muscular tardío y acelerar la recuperación después del ejercicio intenso.",
+            "en": "Tratamiento específico para aliviar el dolor muscular tardío y acelerar la recuperación después del ejercicio intenso."
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Brain",
+          "title": {
+            "he": "Masaje Antiestrés Ejecutivo",
+            "en": "Masaje Antiestrés Ejecutivo"
+          },
+          "desc": {
+            "he": "Sesión de relajación profunda diseñada para ejecutivos que requieren liberar la tensión laboral y restaurar el equilibrio mental.",
+            "en": "Sesión de relajación profunda diseñada para ejecutivos que requieren liberar la tensión laboral y restaurar el equilibrio mental."
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Feather",
+          "title": {
+            "he": "Masaje Sensorial Holístico",
+            "en": "Masaje Sensorial Holístico"
+          },
+          "desc": {
+            "he": "Experiencia integral que combina técnicas de relajación con aromaterapia para despertar los sentidos y revitalizar la energía masculina.",
+            "en": "Experiencia integral que combina técnicas de relajación con aromaterapia para despertar los sentidos y revitalizar la energía masculina."
+          }
+        },
+        {
+          "id": "5",
+          "icon": "Users",
+          "title": {
+            "he": "Masaje en Pareja",
+            "en": "Masaje en Pareja"
+          },
+          "desc": {
+            "he": "Sesión simultánea en nuestras suites privadas, perfecta para reconectar y compartir una experiencia de bienestar profundo.",
+            "en": "Sesión simultánea en nuestras suites privadas, perfecta para reconectar y compartir una experiencia de bienestar profundo."
+          }
+        },
+        {
+          "id": "6",
+          "icon": "Crown",
+          "title": {
+            "he": "Tratamiento Personalizado Premium",
+            "en": "Tratamiento Personalizado Premium"
+          },
+          "desc": {
+            "he": "Protocolo adaptado completamente a las necesidades específicas de cada cliente, combinando múltiples técnicas terapéuticas avanzadas.",
+            "en": "Protocolo adaptado completamente a las necesidades específicas de cada cliente, combinando múltiples técnicas terapéuticas avanzadas."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "Espacios diseñados para la máxima relajación y privacidad",
+          "en": "Espacios diseñados para la máxima relajación y privacidad"
+        },
+        "title": {
+          "he": "Nuestras Instalaciones",
+          "en": "Nuestras Instalaciones"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "website",
+          "alt": {
+            "he": "Casa Nerea Spa - Foto 1",
+            "en": "Casa Nerea Spa - Photo 1"
+          }
+        },
+        {
+          "url": "/images/photo-2.webp",
+          "thumb": "/images/photo-2.webp",
+          "source": "website",
+          "alt": {
+            "he": "Casa Nerea Spa - Foto 2",
+            "en": "Casa Nerea Spa - Photo 2"
+          }
+        },
+        {
+          "url": "/images/photo-3.webp",
+          "thumb": "/images/photo-3.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Casa Nerea Spa",
+            "en": "Casa Nerea Spa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "A",
+      "visible": true,
+      "content": {
+        "happy": {
+          "he": "clientes satisfechos",
+          "en": "clientes satisfechos"
+        },
+        "title": {
+          "he": "Testimonios de Clientes",
+          "en": "Testimonios de Clientes"
+        },
+        "subtitle": {
+          "he": "La confianza de nuestros clientes respalda nuestra excelencia",
+          "en": "La confianza de nuestros clientes respalda nuestra excelencia"
+        },
+        "based_on": {
+          "he": "Basado en",
+          "en": "Basado en"
+        },
+        "reviews": {
+          "he": "reseñas",
+          "en": "reseñas"
+        },
+        "local_guide": {
+          "he": "Guía Local",
+          "en": "Guía Local"
+        },
+        "load_more": {
+          "he": "Ver más testimonios",
+          "en": "Ver más testimonios"
+        }
+      },
+      "items": [
+        {
+          "author": "Victor Gersten",
+          "rating": 5,
+          "text": "Location:This is a great location, easy to access, and only 15 minutes away from the Angel of Independence. …",
+          "date": "11 months ago",
+          "iso_date": "2025-06-25T18:32:59.357Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Victor Gersten",
+          "rating": 5,
+          "text": "Location:This is a great location, easy to access, and only 15 minutes away from the Angel of Independence. …",
+          "date": "11 months ago",
+          "iso_date": "2025-06-25T18:32:59.345Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Andrew Poitras",
+          "rating": 5,
+          "text": "I was very sore from the gym and stressed from work when I arrived. Cinthya provided great pressure to my back, legs, and arms that helped relieve pain form delayed onset muscle soreness. She also had a friendly calming attitude. I feel much better. Gracias mucho por todo.",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.613Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Tonio Moreno",
+          "rating": 5,
+          "text": "My first time wasn't great but Maya quickly offered a solution and invited me back the next day with the promise of a better experience. And I wasn't disappointed, I felt alot more at home and not rushed at all. Linda was very attentive, …",
+          "date": "Edited a year ago",
+          "iso_date": "2025-05-21T18:32:59.612Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Andrew Poitras",
+          "rating": 5,
+          "text": "I was very sore from the gym and stressed from work when I arrived. Cinthya provided great pressure to my back, legs, and arms that helped relieve pain form delayed onset muscle soreness. She also had a friendly calming attitude. I feel much better. Gracias mucho por todo.",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.612Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Kate Z",
+          "rating": 5,
+          "text": "Awesome place to get a massage. My therapist was Diana and she had a great technique and made me feel super relaxed. The girl at the desk, Palima (I think that's her name) was also very sweet. The place was clean. They had showers too. I highly recommend!",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.611Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "MJ Domm",
+          "rating": 5,
+          "text": "I went here last week,I’m visiting Mexico and I discover this amazing place where the staff it was so nice and friendly,\nMy masseuse was very professional and I loved the massage, the place is a 10/10 for sure ,clean, beautifuland music was perfect 💯💯 …",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.611Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "MJ Domm",
+          "rating": 5,
+          "text": "I went here last week,I’m visiting Mexico and I discover this amazing place where the staff it was so nice and friendly,\nMy masseuse was very professional and I loved the massage, the place is a 10/10 for sure ,clean, beautifuland music was perfect 💯💯 …",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.611Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Tonio Moreno",
+          "rating": 5,
+          "text": "My first time wasn't great but Maya quickly offered a solution and invited me back the next day with the promise of a better experience. And I wasn't disappointed, I felt alot more at home and not rushed at all. Linda was very attentive, …",
+          "date": "Edited a year ago",
+          "iso_date": "2025-05-21T18:32:59.611Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Kate Z",
+          "rating": 5,
+          "text": "Awesome place to get a massage. My therapist was Diana and she had a great technique and made me feel super relaxed. The girl at the desk, Palima (I think that's her name) was also very sweet. The place was clean. They had showers too. I highly recommend!",
+          "date": "a year ago",
+          "iso_date": "2025-05-21T18:32:59.599Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Jane Gomez",
+          "rating": 5,
+          "text": "Just in CDMX for the week and found the nearest massage spa “just for fun”! Had an absolutely wonderful relaxing massage. She exerted a perfect amount of pressure; she was obviously an expert because she knew the areas I needed to receive more attention without me saying a word. I highly recommend Casa Nerea!!",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.740Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Jane Gomez",
+          "rating": 5,
+          "text": "Just in CDMX for the week and found the nearest massage spa “just for fun”! Had an absolutely wonderful relaxing massage. She exerted a perfect amount of pressure; she was obviously an expert because she knew the areas I needed to receive more attention without me saying a word. I highly recommend Casa Nerea!!",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.740Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Steven Rodriguez",
+          "rating": 5,
+          "text": "I totally recommend this place, I loved the service, since they receive you they are very friendly, it is a clean and professional place. Above all, thank you very much to my masseuse, Niza. I loved your massage. Whenever I am in Mexico, I will definitely return",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.740Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Steven Rodriguez",
+          "rating": 5,
+          "text": "I totally recommend this place, I loved the service, since they receive you they are very friendly, it is a clean and professional place. Above all, thank you very much to my masseuse, Niza. I loved your massage. Whenever I am in Mexico, I will definitely return",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.740Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Eri Hc",
+          "rating": 5,
+          "text": "Its ok, you only need make an appoiment before, the girls have good hands, you can take a real massage here.",
+          "date": "Edited 2 years ago",
+          "iso_date": "2024-05-21T18:32:59.613Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Eri Hc",
+          "rating": 5,
+          "text": "Its ok, you only need make an appoiment before, the girls have good hands, you can take a real massage here.",
+          "date": "Edited 2 years ago",
+          "iso_date": "2024-05-21T18:32:59.613Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Jennifer Villuendas",
+          "rating": 5,
+          "text": "It’s a friendly and safe place, from outside seems a little lonely but the area it’s very safe and the staff is interested in your needs, the only give relaxing massages, affordable prices 10% discount if you pay in cash.",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.459Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Jennifer Villuendas",
+          "rating": 5,
+          "text": "It’s a friendly and safe place, from outside seems a little lonely but the area it’s very safe and the staff is interested in your needs, the only give relaxing massages, affordable prices 10% discount if you pay in cash.",
+          "date": "2 years ago",
+          "iso_date": "2024-05-21T18:32:59.445Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "phil choq",
+          "rating": 5,
+          "text": "They offer a wide range of different type of massages from Deep tissue to the more sensual one. I went for a 90mins Deep tissue with Isis and I was completely satisfied with the massage and the strength she used. The place is nice and …",
+          "date": "3 years ago",
+          "iso_date": "2023-05-22T18:32:59.740Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "phil choq",
+          "rating": 5,
+          "text": "They offer a wide range of different type of massages from Deep tissue to the more sensual one. I went for a 90mins Deep tissue with Isis and I was completely satisfied with the massage and the strength she used. The place is nice and …",
+          "date": "3 years ago",
+          "iso_date": "2023-05-22T18:32:59.736Z",
+          "is_local_guide": false
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "C",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "Reserve su sesión de renovación energética",
+          "en": "Reserve su sesión de renovación energética"
+        },
+        "wa_hello": {
+          "he": "Hola, me interesa reservar una sesión de masaje en Casa Nerea",
+          "en": "Hola, me interesa reservar una sesión de masaje en Casa Nerea"
+        },
+        "title": {
+          "he": "Reserve su Sesión",
+          "en": "Reserve su Sesión"
+        },
+        "form_title": {
+          "he": "Solicitar Información",
+          "en": "Solicitar Información"
+        },
+        "name": {
+          "he": "Nombre completo",
+          "en": "Nombre completo"
+        },
+        "name_placeholder": {
+          "he": "Su nombre",
+          "en": "Su nombre"
+        },
+        "phone": {
+          "he": "Teléfono",
+          "en": "Teléfono"
+        },
+        "phone_placeholder": {
+          "he": "Su número de contacto",
+          "en": "Su número de contacto"
+        },
+        "message": {
+          "he": "Mensaje",
+          "en": "Mensaje"
+        },
+        "message_placeholder": {
+          "he": "Cuéntenos sobre sus necesidades específicas de masaje",
+          "en": "Cuéntenos sobre sus necesidades específicas de masaje"
+        },
+        "submit": {
+          "he": "Enviar Solicitud",
+          "en": "Enviar Solicitud"
+        },
+        "call": {
+          "he": "Llamar",
+          "en": "Llamar"
+        },
+        "whatsapp": {
+          "he": "WhatsApp",
+          "en": "WhatsApp"
+        },
+        "address": {
+          "he": "Dirección",
+          "en": "Dirección"
+        },
+        "thanks_title": {
+          "he": "¡Gracias por contactarnos!",
+          "en": "¡Gracias por contactarnos!"
+        },
+        "thanks_desc": {
+          "he": "Nos pondremos en contacto con usted pronto para confirmar su cita",
+          "en": "Nos pondremos en contacto con usted pronto para confirmar su cita"
+        },
+        "wa_intro": {
+          "he": "Contáctenos directamente por WhatsApp",
+          "en": "Contáctenos directamente por WhatsApp"
+        },
+        "wa_phone_label": {
+          "he": "Teléfono:",
+          "en": "Teléfono:"
+        },
+        "wa_message_label": {
+          "he": "Mensaje:",
+          "en": "Mensaje:"
+        },
+        "wa_default_msg": {
+          "he": "Hola, me interesa reservar una sesión de masaje",
+          "en": "Hola, me interesa reservar una sesión de masaje"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "J",
+      "visible": true,
+      "content": {
+        "desc": {
+          "he": "Casa Nerea es el centro de masajes masculino líder en Ciudad de México, especializado en técnicas terapéuticas avanzadas que combinan la precisión técnica con el toque intuitivo femenino. Nuestras terapeutas certificadas dominan protocolos específicos de liberación de tensión muscular, revitalización energética y relajación profunda, posicionándonos como la referencia en bienestar masculino de la Zona Rosa.",
+          "en": "Casa Nerea es el centro de masajes masculino líder en Ciudad de México, especializado en técnicas terapéuticas avanzadas que combinan la precisión técnica con el toque intuitivo femenino. Nuestras terapeutas certificadas dominan protocolos específicos de liberación de tensión muscular, revitalización energética y relajación profunda, posicionándonos como la referencia en bienestar masculino de la Zona Rosa."
+        },
+        "years_value": {
+          "he": "5+ años",
+          "en": "5+ años"
+        },
+        "title": {
+          "he": "Líderes en Masajes Masculinos",
+          "en": "Líderes en Masajes Masculinos"
+        },
+        "rating_label": {
+          "he": "Calificación",
+          "en": "Calificación"
+        },
+        "reviews_label": {
+          "he": "Reseñas",
+          "en": "Reseñas"
+        },
+        "years_label": {
+          "he": "Experiencia",
+          "en": "Experiencia"
+        },
+        "available_label": {
+          "he": "Disponibilidad",
+          "en": "Disponibilidad"
+        },
+        "tag_rating": {
+          "he": "4.5 estrellas",
+          "en": "4.5 estrellas"
+        },
+        "tag_reviews": {
+          "he": "127 reseñas",
+          "en": "127 reseñas"
+        },
+        "tag_experience": {
+          "he": "5+ años",
+          "en": "5+ años"
+        },
+        "tag_availability": {
+          "he": "7 días",
+          "en": "7 días"
+        },
+        "status_active": {
+          "he": "Abierto",
+          "en": "Abierto"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "C",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ],
+  "geo_summary": "Casa Nerea Spa is a specialized massage center exclusively for men located on Av Chapultepec 151 in the Zona Rosa district of Mexico City. The spa focuses on therapeutic massage techniques, deep tissue therapy, and holistic wellness treatments designed specifically for male clients, with over 5 years of experience and a 4.5-star rating from 127 reviews.",
+  "faq": [
+    {
+      "question": "¿Qué técnicas de masaje utilizan en Casa Nerea?",
+      "answer": "Utilizamos técnicas especializadas de liberación miofascial, masaje terapéutico profundo, tratamientos deportivos y protocolos holísticos de relajación, todas adaptadas específicamente para el bienestar masculino."
+    },
+    {
+      "question": "¿Necesito hacer cita previa para recibir un masaje?",
+      "answer": "Sí, recomendamos hacer cita previa para garantizar disponibilidad. Puede reservar llamando o enviando un mensaje por WhatsApp."
+    },
+    {
+      "question": "¿Cuáles son sus horarios de atención?",
+      "answer": "Estamos abiertos de lunes a domingo de 9:00 AM a 9:00 PM, brindando flexibilidad total para adaptarnos a su agenda."
+    },
+    {
+      "question": "¿Ofrecen masajes en pareja?",
+      "answer": "Sí, contamos con suites privadas especialmente diseñadas para sesiones de masaje en pareja, perfectas para compartir una experiencia de relajación profunda."
+    },
+    {
+      "question": "¿Qué los diferencia de otros centros de masajes?",
+      "answer": "Somos el único centro especializado exclusivamente en bienestar masculino en Zona Rosa, con terapeutas certificadas que dominan técnicas específicas para las necesidades del hombre moderno."
+    }
+  ]
+}
