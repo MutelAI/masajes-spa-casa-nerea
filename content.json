@@ -93,7 +93,10 @@
     "color_secondary": "yellow",
     "hero_gradient": "from-amber-950 via-yellow-900 to-orange-950",
     "contact_gradient": "from-amber-950 to-orange-900",
-    "section_dark_bg": "#451a03"
+    "section_dark_bg": "#451a03",
+    "font_heading": "'Amatic SC', cursive",
+    "font_body": "'Assistant', sans-serif",
+    "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Assistant:wght@400;600;700&display=swap');"
   },
   "sections": [
     {
