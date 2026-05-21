@@ -25,12 +25,11 @@
       "longitude": -99.1568801
     },
     "schema_type": "SpaOrBeautyShop",
-    "price_range": "$$",
+    "price_range": "$",
     "source_url": "https://maps.app.goo.gl/wQKG3voM7rinukCT9?g_st=aw",
     "cache_key": "wQKG3voM7rinukCT9",
     "logo_url": "/images/logo.webp"
   },
-  "editToken": "71cad27ca53e01823adda8d028fb4fc0",
   "hours": [
     {
       "day_key": "sunday",
@@ -89,7 +88,13 @@
       "is_open": true
     }
   ],
-  "design": {},
+  "design": {
+    "color_primary": "amber",
+    "color_secondary": "yellow",
+    "hero_gradient": "from-amber-950 via-yellow-900 to-orange-950",
+    "contact_gradient": "from-amber-950 to-orange-900",
+    "section_dark_bg": "#451a03"
+  },
   "sections": [
     {
       "id": "hero",
