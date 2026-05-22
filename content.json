@@ -39,7 +39,14 @@
     "section_dark_bg": "#451a03",
     "font_heading": "'Amatic SC', cursive",
     "font_body": "'Assistant', sans-serif",
-    "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Assistant:wght@400;600;700&display=swap');"
+    "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Assistant:wght@400;600;700&display=swap');",
+    "text_styles": {
+      "#hero > div:nth-of-type(2) > h1": {
+        "color": "#ffff00",
+        "fontFamily": "'Varela Round', sans-serif",
+        "fontSize": "1.125rem"
+      }
+    }
   },
   "sections": [
     {
@@ -206,6 +213,24 @@
           "alt": {
             "he": "Casa Nerea Spa",
             "en": "Casa Nerea Spa"
+          }
+        },
+        {
+          "url": "https://raw.githubusercontent.com/MutelAI/masajes-spa-casa-nerea/main/images/edit-1779450460874-0.jpg",
+          "thumb": "https://raw.githubusercontent.com/MutelAI/masajes-spa-casa-nerea/main/images/edit-1779450460874-0.jpg",
+          "source": "owner",
+          "alt": {
+            "he": "Photo",
+            "en": "Photo"
+          }
+        },
+        {
+          "url": "https://raw.githubusercontent.com/MutelAI/masajes-spa-casa-nerea/main/images/edit-1779450460874-1.jpg",
+          "thumb": "https://raw.githubusercontent.com/MutelAI/masajes-spa-casa-nerea/main/images/edit-1779450460874-1.jpg",
+          "source": "owner",
+          "alt": {
+            "he": "Photo",
+            "en": "Photo"
           }
         }
       ]
